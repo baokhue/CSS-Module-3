@@ -1,0 +1,17 @@
+.bold {
+    font-weight: bold;
+}
+
+.color {
+    color: blue;
+}
+
+p {
+    text-indent: 50px;
+    font-family: Arial;
+    font-size: 15px;
+}
+
+sup {
+    font-size: 10px;
+}
